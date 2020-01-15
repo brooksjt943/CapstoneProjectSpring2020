@@ -1,0 +1,52 @@
+C:\Users\Jason\AppData\Local\Temporary Projects\PhotoGallery\bin\Debug\PhotoGallery.exe.config
+C:\Users\Jason\AppData\Local\Temporary Projects\PhotoGallery\obj\Debug\PhotoGallery.csprojResolveAssemblyReference.cache
+C:\Users\Jason\AppData\Local\Temporary Projects\PhotoGallery\obj\Debug\PhotoGallery.GalleryForm.resources
+C:\Users\Jason\AppData\Local\Temporary Projects\PhotoGallery\obj\Debug\PhotoGallery.Properties.Resources.resources
+C:\Users\Jason\AppData\Local\Temporary Projects\PhotoGallery\obj\Debug\PhotoGallery.csproj.GenerateResource.Cache
+C:\_CapstoneDev\PhotoGallery\PhotoGallery\bin\Debug\PhotoGallery.exe.config
+C:\_CapstoneDev\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.GalleryForm.resources
+C:\_CapstoneDev\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.Properties.Resources.resources
+C:\_CapstoneDev\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.csproj.GenerateResource.Cache
+C:\_CapstoneDev\PhotoGallery\PhotoGallery\bin\Debug\PhotoGallery.exe
+C:\_CapstoneDev\PhotoGallery\PhotoGallery\bin\Debug\PhotoGallery.pdb
+C:\_CapstoneDev\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.exe
+C:\_CapstoneDev\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.pdb
+C:\_CapstoneDev\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.ImageViewer.resources
+C:\_CapstoneDev\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.csprojResolveAssemblyReference.cache
+C:\_CapstoneDev2\PhotoGallery\PhotoGallery\bin\Debug\PhotoGallery.exe.config
+C:\_CapstoneDev2\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.exe
+C:\_CapstoneDev2\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.pdb
+C:\_CapstoneDev2\PhotoGallery\PhotoGallery\bin\Debug\PhotoGallery.exe
+C:\_CapstoneDev2\PhotoGallery\PhotoGallery\bin\Debug\PhotoGallery.pdb
+C:\_CapstoneDev2\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.csprojResolveAssemblyReference.cache
+C:\_CapstoneDev2\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.GalleryForm.resources
+C:\_CapstoneDev2\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.ImageViewer.resources
+C:\_CapstoneDev2\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.Properties.Resources.resources
+C:\_CapstoneDev2\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.csproj.GenerateResource.Cache
+F:\Capstone\PhotoGallery\PhotoGallery\bin\Debug\PhotoGallery.exe.config
+F:\Capstone\PhotoGallery\PhotoGallery\bin\Debug\PhotoGallery.exe
+F:\Capstone\PhotoGallery\PhotoGallery\bin\Debug\PhotoGallery.pdb
+F:\Capstone\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.csprojResolveAssemblyReference.cache
+F:\Capstone\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.GalleryForm.resources
+F:\Capstone\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.ImageViewer.resources
+F:\Capstone\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.Properties.Resources.resources
+F:\Capstone\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.csproj.GenerateResource.Cache
+F:\Capstone\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.exe
+F:\Capstone\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.pdb
+C:\PhotoGallery\PhotoGallery\bin\Debug\PhotoGallery.exe.config
+C:\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.exe
+C:\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.pdb
+C:\PhotoGallery\PhotoGallery\bin\Debug\PhotoGallery.exe
+C:\PhotoGallery\PhotoGallery\bin\Debug\PhotoGallery.pdb
+C:\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.csprojResolveAssemblyReference.cache
+C:\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.GalleryForm.resources
+C:\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.ImageViewer.resources
+C:\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.Properties.Resources.resources
+C:\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.csproj.GenerateResource.Cache
+F:\KioskBackup\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.GalleryForm.resources
+F:\KioskBackup\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.ImageViewer.resources
+F:\KioskBackup\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.Properties.Resources.resources
+F:\KioskBackup\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.csproj.GenerateResource.cache
+F:\KioskBackup\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.csproj.CoreCompileInputs.cache
+F:\KioskBackup\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.exe
+F:\KioskBackup\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.pdb
