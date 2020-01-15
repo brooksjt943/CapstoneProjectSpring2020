@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="KioskMenu.exe" version="1.0.0.2" publicKeyToken="ff4e7bf708b68882" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="KioskMenu" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="KioskMenu.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="KioskMenu.exe" size="12248">
+      <assemblyIdentity name="KioskMenu" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>DC+AA5aLOPfBNh66G1z4WEvAs1OwM3l35vG2YfpqDBs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="KioskMenu.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=kiosk-HP\Kiosk User" issuerKeyHash="70a3f0aa4cfa75619126355252327cad496ae0d2" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>xX1Xs6tueoXHPezSbWtI7VxQa7yX/vstbx7jmQOQbBE=</DigestValue></Reference></SignedInfo><SignatureValue>JbMUUZBcjlSWNy/9Kzwni7CLzgHTuZ90zjQcg8mmet2lA+qBUlUdVkLl6xWooK29Dy9gqrVHzDSTUToCVfbATu1+WvCp60BGscS8xdNiUC8LhCepmqnuNweBUsD0M25vXHoFlvQri9J28G5i/9t3cl/udeLalJfp53zaxHDMHRE=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>qPFtvX1m+oKqUBQWUiZF4R8yUfAUWaVnFlhx8p98ypA061PXNXwB1s+QOJ1yEToaELjyzYVMDVExjQBcnNjzHdrzbmbwH/5WI9DlO3FABkWzJJIjjM/XzWoLfX3DhwssvO+OUtmqMjb1wNf8kPLLEZpv05dQah7JDvZ5Wu79Zrs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="116c900399e31e6f2dfbfe97bc6b505ced486b6dd2ec3dc7857a6eabb3577dc5" Description="" Url=""><as:assemblyIdentity name="KioskMenu.exe" version="1.0.0.2" publicKeyToken="ff4e7bf708b68882" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=kiosk-HP\Kiosk User</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>K+v104b1a9+uPEpuYvno0/vuv5tsNU4oJAiOTaL98V8=</DigestValue></Reference></SignedInfo><SignatureValue>jgf8TLNVWxf7ZP4pw1XAzjfkz8jk0wdhZljJSc7VwapmZB3mBjZwfhA8UqkNsJ9/7zWv2BRCg/BgMEYJUlC8wZZI6oh7pZc0XZA8lXRS9dXhgnATdC9vUFAcYFcgDtDAiU9wfkaW0mgxjNDxNP2usq2OARIgAaQMChCH2bxKrsg=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>qPFtvX1m+oKqUBQWUiZF4R8yUfAUWaVnFlhx8p98ypA061PXNXwB1s+QOJ1yEToaELjyzYVMDVExjQBcnNjzHdrzbmbwH/5WI9DlO3FABkWzJJIjjM/XzWoLfX3DhwssvO+OUtmqMjb1wNf8kPLLEZpv05dQah7JDvZ5Wu79Zrs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB5TCCAU6gAwIBAgIQFX0Khm3WD5dGYOF2T2BhyTANBgkqhkiG9w0BAQsFADAxMS8wLQYDVQQDHiYAawBpAG8AcwBrAC0ASABQAFwASwBpAG8AcwBrACAAVQBzAGUAcjAeFw0xNzA1MDQxNzAxNTVaFw0xODA1MDQyMzAxNTVaMDExLzAtBgNVBAMeJgBrAGkAbwBzAGsALQBIAFAAXABLAGkAbwBzAGsAIABVAHMAZQByMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCo8W29fWb6gqpQFBZSJkXhHzJR8BRZpWcWWHHyn3zKkDTrU9c1fAHWz5A4nXIROhoQuPLNhUwNUTGNAFyc2PMd2vNuZvAf/lYj0OU7cUAGRbMkkiOMz9fNagt9fcOHCyy8745S2aoyNvXA1/yQ8ssRmm/Tl1BqHskO9nla7v1muwIDAQABMA0GCSqGSIb3DQEBCwUAA4GBADr7RvMEVFmGYjBbZwsnG+lgkAmC78/NuscycKE+rnb7Qm6mToJSSR9R0bdgIAYZ25qaX9sd2tYrkTJMfluBwRVIwr24ettmP7CmPZQmaWSaOjfKTyyF8dtzYNKG9H+2MiWyXqtECDb6JmWlvpo6gkzHI0z4+t0AL0gBbbRWKcUC</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

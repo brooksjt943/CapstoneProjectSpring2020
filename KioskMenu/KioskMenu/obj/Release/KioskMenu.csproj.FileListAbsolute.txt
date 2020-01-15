@@ -1,0 +1,13 @@
+C:\KioskMenu\KioskMenu\bin\Release\KioskMenu.exe.config
+C:\KioskMenu\KioskMenu\bin\Release\KioskMenu.exe.manifest
+C:\KioskMenu\KioskMenu\bin\Release\KioskMenu.application
+C:\KioskMenu\KioskMenu\bin\Release\KioskMenu.exe
+C:\KioskMenu\KioskMenu\bin\Release\KioskMenu.pdb
+C:\KioskMenu\KioskMenu\obj\Release\KioskMenu.csprojResolveAssemblyReference.cache
+C:\KioskMenu\KioskMenu\obj\Release\KioskMenu.MenuForm.resources
+C:\KioskMenu\KioskMenu\obj\Release\KioskMenu.Properties.Resources.resources
+C:\KioskMenu\KioskMenu\obj\Release\KioskMenu.csproj.GenerateResource.Cache
+C:\KioskMenu\KioskMenu\obj\Release\KioskMenu.exe.manifest
+C:\KioskMenu\KioskMenu\obj\Release\KioskMenu.application
+C:\KioskMenu\KioskMenu\obj\Release\KioskMenu.exe
+C:\KioskMenu\KioskMenu\obj\Release\KioskMenu.pdb
