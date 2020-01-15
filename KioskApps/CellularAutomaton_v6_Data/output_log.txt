@@ -1,0 +1,45 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K600 (ID=0xffa)
+    Vendor:   NVIDIA
+    VRAM:     985 MB
+    Driver:   23.21.13.9133
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\KioskBackup\KioskApps\CellularAutomaton_v6_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\KioskBackup\KioskApps\CellularAutomaton_v6_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\KioskBackup\KioskApps\CellularAutomaton_v6_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\KioskBackup\KioskApps\CellularAutomaton_v6_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\KioskBackup\KioskApps\CellularAutomaton_v6_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\KioskBackup\KioskApps\CellularAutomaton_v6_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\KioskBackup\KioskApps\CellularAutomaton_v6_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\KioskBackup\KioskApps\CellularAutomaton_v6_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\KioskBackup\KioskApps\CellularAutomaton_v6_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading F:\KioskBackup\KioskApps\CellularAutomaton_v6_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.241 seconds
+Platform assembly: F:\KioskBackup\KioskApps\CellularAutomaton_v6_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\KioskBackup\KioskApps\CellularAutomaton_v6_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3200x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.214300 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1495c -> priority: 1 
+  Thread -> id: f460 -> priority: 1 
+  Thread -> id: fe34 -> priority: 1 
+  Thread -> id: 15388 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.662400 ms
+
+Unloading 293 unused Assets to reduce memory usage. Loaded Objects now: 3278.
+Total: 1.884900 ms (FindLiveObjects: 0.165700 ms CreateObjectMapping: 0.082300 ms MarkObjects: 1.188800 ms  DeleteObjects: 0.447600 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.435300 ms
+
+Unloading 292 unused Assets to reduce memory usage. Loaded Objects now: 3278.
+Total: 2.197700 ms (FindLiveObjects: 0.225000 ms CreateObjectMapping: 0.079100 ms MarkObjects: 1.397000 ms  DeleteObjects: 0.495700 ms)
+
